@@ -1,12 +1,10 @@
 # haberlerSayfam
 BTK Erzurum Frontend Web Development Second Day Morning
 
-## biz **bugün**;
+## **Today** we learn;
 
-*Body tasarımı - header, nav, article, footer
+*Body editing - header, nav, article, footer
 
-*formlar
-
-Konularını gördük.
+*forms
 
 ![](websitesi.PNG)
